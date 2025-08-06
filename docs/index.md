@@ -1,22 +1,16 @@
 ---
+# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: VitePress Carbon
-  text: Streamlined Theme
-  tagline: Crafting with carbon's sleekness.
+  name: OpenMochizuki
+  text: Documentation
+  tagline: Documentation for OpenMochizuki, an open-source drum game inspired by various games found on SmileBASIC for the Nintendo Switch.
   image:
-    src: ./logo.png
-    alt: VitePress Carbon
-  actions:
-    - theme: brand
-      text: Introduction
-      link: /markdown-examples
-    - theme: alt
-      text: GitHub Organization
-      link: https://github.com/openmochizuki
+  src: /logo.png
+  alt: VitePress Carbon
   icon: 
-    src: ./icon.png
+    src: /icon.png
     alt: OpenMochizuki
 
 features:
@@ -28,5 +22,5 @@ features:
     title: Skinning
     details: Integrate seamlessly with your VitePress projects.
     link: /skinning
-
 ---
+
