@@ -1,5 +1,7 @@
 * [Introduction](/)
 * [Charting](charting.md#charting)
+  * [Note Types](#note-types)
+  * [Tags](#tags)
 * [Skinning & Customization](skinning.md#skinning)
   * [Lua Scripting](skinning#lua-scripting)
     * [Calling Functions](skinning#calling-functions)
